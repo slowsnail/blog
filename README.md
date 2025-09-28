@@ -1,29 +1,29 @@
-# Vue 3 Minimalist Blog
+# Vue 3 极简博客
 
-A minimalist blog application built with Vue 3 and Vite.
+一个使用 Vue 3 和 Vite 构建的极简博客应用。
 
-## Features
+## 功能特性
 
-- Clean and minimalist design
-- Responsive layout for mobile and desktop
-- Pages: Home, Articles, Article Detail
-- Routing with Vue Router
-- Component-based architecture
+- 简洁的极简设计
+- 适配移动端和桌面端的响应式布局
+- 页面：首页、文章列表、文章详情
+- 使用 Vue Router 进行路由管理
+- 基于组件的架构
 
-## Project Setup
+## 项目设置
 
-Install dependencies:
+安装依赖：
 ```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 开发环境编译和热重载
 
 ```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 生产环境编译和压缩
 
 ```bash
 npm run build
